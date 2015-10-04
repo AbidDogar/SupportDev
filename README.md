@@ -1,4 +1,3 @@
 # SupportDev
-This is Abid Dogar and these tutorials are for my students to practice.
-This package is only for leaning purpose. Author will not be responsible for any issues as there will be some unfinished codes.
-Even though I try to test my codes all the time but still use them with your own discretion
+This is Abid Dogar and this package includes many different Jave tutorials for my students to practice.
+Even though I try my best to test my codes but still there can be some bugs or unhandled exceptions. So please use them on your discretion as I will not be responsible for any issues whats so ever. Thank you and good luck!
